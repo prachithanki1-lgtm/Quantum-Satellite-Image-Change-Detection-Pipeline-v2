@@ -1,0 +1,16 @@
+{
+  "backend": "ibm_fez",
+  "qubits": 156,
+  "depth": 186,
+  "two_q_gates": 89,
+  "jobs": [
+    "db372ur9kq9s73at9k20",
+    "db373fv4b7jc73anc9ug",
+    "db3752f4b7jc73ancdag",
+    "db375d9lb5cs73fhd8ag",
+    "db375nj9kq9s73at9qk0"
+  ],
+  "shots": 1024,
+  "circuits": 500,
+  "bal_acc": 0.965
+}
